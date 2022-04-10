@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/arvo</item>
+        <item>@font/baloo_bhaijaan</item>
+        <item>@font/baloo_bhaina</item>
+        <item>@font/mate</item>
+        <item>@font/neuton</item>
+        <item>@font/neuton_bold</item>
+        <item>@font/numans</item>
+        <item>@font/nunito_sans</item>
+        <item>@font/nunito_sans_extrabold</item>
+        <item>@font/nunito_sans_light</item>
+        <item>@font/nunito_sans_semibold</item>
+    </array>
+</resources>
